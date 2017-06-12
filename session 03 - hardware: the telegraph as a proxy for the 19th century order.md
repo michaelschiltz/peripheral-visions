@@ -16,6 +16,10 @@ Fig. 1: Source: Sambourne, Edward Linley. 1892. The Rhodes Colossus: Caricature 
 * Wenzlhuemer, Dr Roland. *Connecting the Nineteenth-Century World: The Telegraph and Globalization*. Cambridge ; New York: Cambridge University Press, 2012.
 * Yang, Daqing. *Technology of Empire : Telecommunications and Japanese Imperialism, 1930-1945*. Harvard University Asia Center, 2003. 
 
+![telegraph lines in 1901](/1901-Berne-Map-BPL-Leventhal.jpg)
+
+Fig. 2: Source: Van Hoven, C.,  and International Telegraph Bureau (Bern, Switzerland).  "Carte générale des grandes communications télégraphiques du monde."  Map.  1903.  Norman B. Leventhal Map Center,  https://collections.leventhalmap.org/search/commonwealth:7h149w11c (accessed June 12, 2017).
+
 ### the telegraph as a disruptive technology: imperial administration, financial innovation, and a market for opium
 * Adley, Charles C. 1866. [The Story of the Telegraph in India](https://books.google.ch/books?id=1GwBAAAAQAAJ&ots=YGwc3xxp88&dq=telegraphy%20opium&lr&pg=PP1#v=onepage&q=telegraphy%20opium&f=false). E. & F. N. Spon. (part about the "Great Opium Frauds")
 * Winseck, Dwayne R., and Robert M. Pike. *Communication and Empire: Media, Markets, and Globalization, 1860–1930*. Durham: Duke University Press Books, 2007.
