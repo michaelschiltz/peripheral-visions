@@ -17,5 +17,8 @@
 * Winseck, Dwayne R., and Robert M. Pike. *Communication and Empire: Media, Markets, and Globalization, 1860–1930*. Durham: Duke University Press Books, 2007.
 * Choudhury, Deep Kanta Lahiri. 2010. *Telegraphic Imperialism: Crisis and Panic in the Indian Empire, c.1830-1920*. 2010 edition. New York: Palgrave Macmillan.
 
+### technology and persistence: telegraph cables and the internet
+* Tully, John. 2009. “A Victorian Ecological Disaster: Imperialism, the Telegraph, and Gutta-Percha.” Journal of World History 20 (4): 559–79. doi:10.1353/jwh.0.0088.
+
 ### To watch
 "[Addicted to Pleasure](http://docuwiki.net/index.php?title=Addicted_to_Pleasure)"
