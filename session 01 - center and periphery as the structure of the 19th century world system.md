@@ -1,7 +1,7 @@
 ### Keywords
 
 ### What is the epistemological status of core versus periphery?
-* to what degree is this a real, i.e. observable and measurable distinction for analyzing societal structure, imperialism, etc.
+* to what degree is this a real, i.e. observable and even *measurable* distinction for analyzing societal structure, imperialism, etc.
 * sources:
   * Borgatti, Stephen P, and Martin G Everett. 2000. “Models of Core/periphery Structures.” *Social Networks* 21 (4): 375–95. doi:10.1016/S0378-8733(99)00019-2.
   * Boyd, John P., William J. Fitzgerald, and Robert J. Beck. 2006. “Computing Core/periphery Structures and Permutation Tests for Social Relations Data.” *Social Networks* 28 (2): 165–78. doi:10.1016/j.socnet.2005.06.003.
@@ -9,3 +9,15 @@
   * Granovetter, Mark. 1983. “The Strength of Weak Ties: A Network Theory Revisited.” *Sociological Theory* 1: 201–33. doi:10.2307/202051.
 
 ### Core and periphery in the 19th century: the harsh reality of social structure
+* network effects: being dependent on the choices of others
+  * Kindleberger, Charles Poor. 1967. *The Politics of International Money and World Language*. International Finance Section, Department of Economics, Princeton University. https://www.princeton.edu/~ies/IES_Essays/E61.pdf.
+* a monetary geography of the nineteenth century
+  * Flandreau, Marc, and Clemens Jobst. 2005. “The Ties That Divide: A Network Analysis of the International Monetary System, 1890–1910.” *The Journal of Economic History* 65 (04): 977–1007. doi:10.1017/S0022050705000379.
+
+### the network theoretical vision versus existing alternatives
+* agency-based literature
+* materialist explanations: the debate on the '[Great Divergence](https://en.wikipedia.org/wiki/Great_Divergence)'
+
+### related traditions and literature
+* Luhmann, Niklas. 2012. *Theory of Society*, Volume 1. Translated by Rhodes Barrett. Stanford, California: Stanford University Press.
+* Luhmann, Niklas. 2013. *Theory of Society*, Volume 2. Translated by Rhodes Barrett. Stanford, Calif.: Stanford University Press.
