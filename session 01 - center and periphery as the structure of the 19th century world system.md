@@ -13,6 +13,11 @@
   * Kindleberger, Charles Poor. 1967. *The Politics of International Money and World Language*. International Finance Section, Department of Economics, Princeton University. https://www.princeton.edu/~ies/IES_Essays/E61.pdf.
 * a monetary geography of the nineteenth century
   * Flandreau, Marc, and Clemens Jobst. 2005. “The Ties That Divide: A Network Analysis of the International Monetary System, 1890–1910.” *The Journal of Economic History* 65 (04): 977–1007. doi:10.1017/S0022050705000379.
+  
+![the monetary geography of 1900](/flandreaujobstEHR.png)
+
+Fig.1: Source: Flandreau, Marc, and Clemens Jobst. 2005. “The Ties That Divide: A Network Analysis of the International Monetary System, 1890–1910.” *The Journal of Economic History* 65 (04): 977–1007. doi:10.1017/S0022050705000379.
+
 
 ### the network theoretical vision versus existing alternatives
 * agency-based literature
