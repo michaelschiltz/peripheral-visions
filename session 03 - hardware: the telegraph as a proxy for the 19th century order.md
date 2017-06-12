@@ -9,6 +9,7 @@ Check as well the cartoon's [history and background](https://en.wikipedia.org/wi
 * Kittler, Friedrich. 1995. “There Is No Software.” Ctheory 10 (18): 1995. http://www.realtechsupport.org/UB/MC/Kittler_NoSoftware_1995.pdf.
 
 ### The forgotten revolution in communication technology: telegraphy, radio
+* Nishimura, Shizuya. 1971. *The Decline of Inland Bills of Exchange in the London Money Market, 1855-1913*. London: Cambridge University Press.
 * Putin Ferguson. 2017. *The World’s First Transatlantic Cable : Documentary on the First Transatlantic Telegraph Cable*. Accessed June 12. https://www.youtube.com/watch?v=cFKONUBBHQw&t=1317s.
 
 ### Japan's race for communication technology
