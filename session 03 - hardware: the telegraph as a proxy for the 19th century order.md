@@ -1,6 +1,7 @@
-### Keywords
+### Keywords:
 
 ![The Rhodes Colossus](/512px-Punch_Rhodes_Colossus.png)
+Fig. 1: Source: Sambourne, Edward Linley. 1892. The Rhodes Colossus: Caricature of Cecil John Rhodes, after He Announced Plans for a Telegraph Line and Railroad from Cape Town to Cairo. Punch and Exploring History 1400-1900: An anthology of primary sources, p. 401 by Rachel C. Gibbons. https://commons.wikimedia.org/wiki/File:Punch_Rhodes_Colossus.png.
 
 ### "There is no software"
 * Kittler, Friedrich. 1995. “There Is No Software.” Ctheory 10 (18): 1995. http://www.realtechsupport.org/UB/MC/Kittler_NoSoftware_1995.pdf.
