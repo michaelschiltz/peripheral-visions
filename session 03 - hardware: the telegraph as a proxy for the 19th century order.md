@@ -26,7 +26,10 @@ Fig. 2: Source: Van Hoven, C.,  and International Telegraph Bureau (Bern, Switze
 * Choudhury, Deep Kanta Lahiri. 2010. *Telegraphic Imperialism: Crisis and Panic in the Indian Empire, c.1830-1920*. 2010 edition. New York: Palgrave Macmillan.
 
 ### technology and persistence: telegraph cables and the internet
-* Tully, John. 2009. “A Victorian Ecological Disaster: Imperialism, the Telegraph, and Gutta-Percha.” Journal of World History 20 (4): 559–79. doi:10.1353/jwh.0.0088.
+* Tully, John. 2009. “A Victorian Ecological Disaster: Imperialism, the Telegraph, and Gutta-Percha.” *Journal of World History* 20 (4): 559–79. doi:10.1353/jwh.0.0088.
 
 ### To watch
-"[Addicted to Pleasure](http://docuwiki.net/index.php?title=Addicted_to_Pleasure)"
+* "[Addicted to Pleasure](http://docuwiki.net/index.php?title=Addicted_to_Pleasure)"
+
+### Others:
+* “A Chronicle of the China Trade. The Papers of Augustine Heard & Co., 1840-1877 - Harvard Business School.” 2017. Accessed June 12. https://www.library.hbs.edu/hc/heard/index.html.
