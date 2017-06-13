@@ -1,5 +1,5 @@
 ### Keywords
-* gold standard, original sin, foreign borrowing
+* gold standard, 金本位制, original sin, foreign borrowing
 
 ### The Gold Standard as a step on the road to redemption
 * the debate on gold standard adoption
