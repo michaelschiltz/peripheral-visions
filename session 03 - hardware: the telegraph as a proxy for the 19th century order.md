@@ -35,3 +35,4 @@ Fig. 2: Source: Van Hoven, C.,  and International Telegraph Bureau (Bern, Switze
 
 ### Others:
 * “A Chronicle of the China Trade. The Papers of Augustine Heard & Co., 1840-1877 - Harvard Business School.” 2017. Accessed June 12. https://www.library.hbs.edu/hc/heard/index.html.
+* [The Opium War in Japanese Eyes](https://ocw.mit.edu/ans7870/21f/21f.027/opium_wars_japan/index.html)
