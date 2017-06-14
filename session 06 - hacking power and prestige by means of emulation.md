@@ -7,12 +7,11 @@
    * Mitchener, Kris James, Masato Shizume, and Marc D. Weidenmier. 2010. “Why Did Countries Adopt the Gold Standard? Lessons from Japan.” *The Journal of Economic History* 70 (01): 27–56. doi:10.1017/S0022050710000045.
    * Schiltz, Michael. 2012. “Money on the Road to Empire: Japan’s Adoption of Gold Monometallism, 1873–971.” *The Economic History Review* 65 (3): 1147–68. doi:10.1111/j.1468-0289.2011.00619.x.
 * other aspects of the center/periphery dynamic:
-  * 小野一一郎. 『近代日本幣制と東アジア銀貨圏―円とメキシコドル』. ミネルヴァ書房, 2001.
-  * Matsuoka, Kôji. 1938. *L’Etalon de change or en Extrême-Orient*. Paris; Tôkyo: P. Geuthner ; Mitsukoshi.
-  * Nishimura, Shizuya. 2005. “The Foreign and Native Banks in China: Chop Loans in Shanghai and Hankow before 1914.” *Modern Asian Studies* 39 (01): 109–32. doi:10.1017/S0026749X04001404.
-  * Nishimura, Shizuya, Toshio Suzuki, and Ranald C. Michie. *The Origins of International Banking in Asia: The Nineteenth and Twentieth Centuries*. Oxford University Press, 2012. [chapters 1 & 2].
-  * 閑也西村. 『国際銀行とアジア 1870―1913』. 慶應義塾大学出版会, 2014.
-
+   * 小野一一郎. 『近代日本幣制と東アジア銀貨圏―円とメキシコドル』. ミネルヴァ書房, 2001.
+   * Matsuoka, Kôji. 1938. *L’Etalon de change or en Extrême-Orient*. Paris; Tôkyo: P. Geuthner ; Mitsukoshi.
+   * Nishimura, Shizuya. 2005. “The Foreign and Native Banks in China: Chop Loans in Shanghai and Hankow before 1914.” *Modern Asian Studies* 39 (01): 109–32. doi:10.1017/S0026749X04001404.
+   * Nishimura, Shizuya, Toshio Suzuki, and Ranald C. Michie. *The Origins of International Banking in Asia: The Nineteenth and Twentieth Centuries*. Oxford University Press, 2012. [chapters 1 & 2].
+   * 閑也西村. 『国際銀行とアジア 1870―1913』. 慶應義塾大学出版会, 2014.
 
 ### Lessons to be drawn
 * the contemporary dimension: Hernando de Soto and the 'mystery of capital'
