@@ -24,6 +24,7 @@ Fig. 2: Source: Van Hoven, C.,  and International Telegraph Bureau (Bern, Switze
 
 ### the telegraph as a disruptive technology: imperial administration, financial innovation, and a market for opium
 * Adley, Charles C. 1866. [The Story of the Telegraph in India](https://books.google.ch/books?id=1GwBAAAAQAAJ&ots=YGwc3xxp88&dq=telegraphy%20opium&lr&pg=PP1#v=onepage&q=telegraphy%20opium&f=false). E. & F. N. Spon. (part about the "Great Opium Frauds")
+* Carey, James W. 1983. “Technology and Ideology: The Case of the Telegraph.” *Prospects* 8 (October): 303–25. doi:10.1017/S0361233300003793.
 * Winseck, Dwayne R., and Robert M. Pike. *Communication and Empire: Media, Markets, and Globalization, 1860–1930*. Durham: Duke University Press Books, 2007.
 * Choudhury, Deep Kanta Lahiri. 2010. *Telegraphic Imperialism: Crisis and Panic in the Indian Empire, c.1830-1920*. 2010 edition. New York: Palgrave Macmillan.
 
