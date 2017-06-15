@@ -1,4 +1,5 @@
-
+main focus: military technology and training, strategic doctrines
+less tangible: legal code, parliamentary system, ...
 
 
 ### Others:
