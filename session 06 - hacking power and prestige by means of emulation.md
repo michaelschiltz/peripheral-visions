@@ -1,6 +1,10 @@
 ### Keywords
 * gold standard, 金本位制, original sin, foreign borrowing
 
+![Matsukata Masayoshi](/img4_MatsukataM.jpg)
+
+Source: Unknown. 1924. Portrait of Matsukata Masayoshi (松方正義, 1835 – 1924). Japanese book Kinsei Meishi Shashin vol.1 (近世名士写真 其1), Published  in 1934 – 1935. https://commons.wikimedia.org/wiki/File:4_MatsukataM.jpg.
+
 ### The Gold Standard as a step on the road to redemption
 * the debate on gold standard adoption (in chronological order of discussion)
    * Sussman, Nathan, and Yishay Yafeh. “Institutions, Reforms, and Country Risk: Lessons from Japanese Government Debt in the Meiji Era.” *The Journal of Economic History* 60, no. 2 (June 1, 2000): 442–467.http://www.jstor.org/stable/2566379.
