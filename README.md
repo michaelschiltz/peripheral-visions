@@ -29,3 +29,18 @@ There is no paper to be written; instead, students are asked to make ‘smart’
 
 ### Readings:
 Everyone should read the ‘required’ items; I have deliberately (mostly) picked shorter items (journal articles and/or book chapters). Discussants also need to read at least some of the ‘other’ readings.
+
+### Sessions
+* session 1
+* session 2
+* session 3
+* session 4
+* session 5
+* session 6
+* session 7
+* session 7
+* session 8
+* session 9
+* session 10
+* session 11
+* session 12
