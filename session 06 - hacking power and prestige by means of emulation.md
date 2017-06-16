@@ -14,10 +14,11 @@ Source: Unknown. 1924. Portrait of Matsukata Masayoshi (松方正義, 1835 – 1
 
 * other aspects of the center/periphery dynamic:
    * Matsuoka, Kôji. 1938. *L’Etalon de change or en Extrême-Orient*. Paris; Tôkyo: P. Geuthner ; Mitsukoshi.
-   * Nishimura, Shizuya. 2005. “The Foreign and Native Banks in China: Chop Loans in Shanghai and Hankow before 1914.” *Modern Asian Studies* 39 (01): 109–32. doi:10.1017/S0026749X04001404.
-   * 小野一一郎. 『近代日本幣制と東アジア銀貨圏―円とメキシコドル』. ミネルヴァ書房, 2001.
+   * Nishimura, Shizuya. 2005. “The Foreign and Native Banks in China: Chop Loans in Shanghai and Hankow before 1914.” *Modern Asian Studies* 39 (01): 109–32. doi:10.1017/S0026749X04001404.      
    * Nishimura, Shizuya, Toshio Suzuki, and Ranald C. Michie. *The Origins of International Banking in Asia: The Nineteenth and Twentieth Centuries*. Oxford University Press, 2012. [chapters 1 & 2].
    * 閑也西村. 『国際銀行とアジア 1870―1913』. 慶應義塾大学出版会, 2014.
+   * 小野一一郎. 『近代日本幣制と東アジア銀貨圏―円とメキシコドル』. ミネルヴァ書房, 2001.
+
 
 ### Lessons to be drawn
 * the contemporary dimension: Hernando de Soto and the 'mystery of capital'
