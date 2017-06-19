@@ -2,7 +2,7 @@
 
 ![a cartoon about the Sino-Japanese War](/imgCoree.jpg)
 
-Source: Bigot, en:Georges Ferdinand. 1887. Go Fishing, Tobae, February 1887. “Empire of Comic Visions: Japanese Cartoon Journalism and its Pictorial Statements on Korea, 1876-1910”, Jung-Sun N. Han, *Japanese Studies*, Volume 26, Issue 3 December 2006 , pages 283 - 302. https://commons.wikimedia.org/wiki/File:Coree.jpg.
+Source: Bigot, Georges Ferdinand. 1887. Go Fishing, Tobae, February 1887. “Empire of Comic Visions: Japanese Cartoon Journalism and its Pictorial Statements on Korea, 1876-1910”, Jung-Sun N. Han, *Japanese Studies*, Volume 26, Issue 3 December 2006 , pages 283 - 302. https://commons.wikimedia.org/wiki/File:Coree.jpg.
 
 
 ### References:
