@@ -1,5 +1,10 @@
 ### Keywords:
 
+![a cartoon about the Sino-Japanese War](/imgCoree.jpg)
+
+Source: Bigot, en:Georges Ferdinand. 1887. Go Fishing, Tobae, February 1887. “Empire of Comic Visions: Japanese Cartoon Journalism and its Pictorial Statements on Korea, 1876-1910”, Jung-Sun N. Han, *Japanese Studies*, Volume 26, Issue 3 December 2006 , pages 283 - 302. https://commons.wikimedia.org/wiki/File:Coree.jpg.
+
+
 ### References:
 * Ching, Leo. 2000. “Savage Construction and Civility Making: The Musha Incident and Aboriginal Representations in Colonial Taiwan.” Positions 8 (3): 795–818. doi:10.1215/10679847-8-3-795.
 * Ching, Leo T. S. Becoming Japanese: Colonial Taiwan and the Politics of Identity Formation. Berkeley: University of California Press, 2001.
