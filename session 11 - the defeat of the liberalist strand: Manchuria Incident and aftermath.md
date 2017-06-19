@@ -13,3 +13,5 @@ rogue state, puppet state, blocism, modernity, futurism
 * Young, Louise. 1998. *Japan’s Total Empire: Manchuria and the Culture of Wartime Imperialism*. 1 edition. University of California Press.
 
 ![poppy harvest in Manchuria](/imgManchukuo-poppy_harvest.jpg)
+
+![Japanese modernist photography: a train in Manchuria](/imgCmRZxLGUcAEeIm4.jpg)
