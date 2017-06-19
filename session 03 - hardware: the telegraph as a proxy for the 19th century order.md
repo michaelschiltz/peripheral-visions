@@ -13,7 +13,10 @@ Check as well the cartoon's [history and background](https://en.wikipedia.org/wi
 * Putin Ferguson. 2017. *The World’s First Transatlantic Cable : Documentary on the First Transatlantic Telegraph Cable*. Accessed June 12. https://www.youtube.com/watch?v=cFKONUBBHQw&t=1317s.
 
 ### Japan's race for communication technology
-* Finn, Bernard, and Daqing Yang. 2009. *Communications Under the Seas: The Evolving Cable Network and Its Implications*. Cambridge, Mass: The MIT Press. (esp. Japan chapter)
+* Ahvenainen, J. 1981. “The Far Eastern Telegraphs. The History of Telegraphic Communications between the Far East, Europe and America before the First World War.” *Annales Academiae Scientiarum Fennicae Helsinki* 216: 1–226. http://cat.inist.fr/?aModele=afficheN&cpsidt=12483908.
+* Finn, Bernard, and Daqing Yang. 2009. *Communications Under the Seas: The Evolving Cable Network and Its Implications*. Cambridge, Mass: The MIT Press. (esp. Japan chapter).
+* Jakobsen, Kurt. 2002. “In Struggle for Control over the Far Eastern Telegraphs: The Great Northern Telegraph Company and Japan (1870-1943).” *Transnational Companies* (19th-20th Centuries), 331–45.
+* Knuesel, Ariane. 2007. “British Diplomacy and the Telegraph in Nineteenth-Century China.” *Diplomacy & Statecraft* 18 (3): 517–37. doi:10.1080/09592290701540249.
 * 大塚虎之助, and 増田民男. 2002. 極秘電報に見る戦争と平和―日本電信情報史. 熊本市: 熊本出版文化会館.
 * Wenzlhuemer, Dr Roland. *Connecting the Nineteenth-Century World: The Telegraph and Globalization*. Cambridge ; New York: Cambridge University Press, 2012.
 * Yang, Daqing. *Technology of Empire : Telecommunications and Japanese Imperialism, 1930-1945*. Harvard University Asia Center, 2003. 
