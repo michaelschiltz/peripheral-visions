@@ -19,3 +19,4 @@
 * negotiations with the foreign powers (see discussion in Roy Hanashiro)
   * Auslin, Michael R. *Negotiating with Imperialism: The Unequal Treaties and the Culture of Japanese Diplomacy*. Harvard University Press, 2004.
 
+![kite-flying: a metaphor for inflation in the bakumatsu period](/imgsc170754.jpg)
