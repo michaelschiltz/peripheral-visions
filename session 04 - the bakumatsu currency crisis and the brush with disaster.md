@@ -3,7 +3,7 @@
 
 ### Discussion
 * a pre-modern inheritance: the triple currency system ([三貨制度](https://ja.wikipedia.org/wiki/%E6%B1%9F%E6%88%B8%E6%99%82%E4%BB%A3%E3%81%AE%E4%B8%89%E8%B2%A8%E5%88%B6%E5%BA%A6)) of the Edo-period.
-  * preconditions for this system to survive: closed country, centralized and politicized monetary policy making
+  * preconditions for this system to survive: closed country, centralized and politicized monetary policy making
 * a full-blown crisis when confronting the militarily superior Western powers: the bakumatsu currency crisis ([幕末通貨問題](https://ja.wikipedia.org/wiki/%E5%B9%95%E6%9C%AB%E3%81%AE%E9%80%9A%E8%B2%A8%E5%95%8F%E9%A1%8C))
   * a [short introduction](https://www.boj.or.jp/announcements/koho_nichigin/backnumber/data/nichigin18-7.pdf) (in Japanese)
 
