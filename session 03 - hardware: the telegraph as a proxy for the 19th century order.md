@@ -35,7 +35,7 @@ Fig. 2: Source: Van Hoven, C.,  and International Telegraph Bureau (Bern, Switze
 
 ### technology and persistence: telegraph cables and the internet
 * Tully, John. 2009. “A Victorian Ecological Disaster: Imperialism, the Telegraph, and Gutta-Percha.” *Journal of World History* 20 (4): 559–79. doi:10.1353/jwh.0.0088.
-* [submarine cable map](http://www.submarinecablemap.com/) (also [on github](https://github.com/telegeography/www.submarinecablemap.com)
+* [submarine cable map](http://www.submarinecablemap.com/) (also [on github](https://github.com/telegeography/www.submarinecablemap.com))
 
 ### To watch
 * "[Addicted to Pleasure](http://docuwiki.net/index.php?title=Addicted_to_Pleasure)"
