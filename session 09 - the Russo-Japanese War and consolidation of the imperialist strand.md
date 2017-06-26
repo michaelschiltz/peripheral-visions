@@ -9,7 +9,7 @@ Source: Ohara Kisaburō. 1904. Europe and Asia. (cm, H x W) 42 x 57. Cornell Uni
 * Gerbig-Fabel, Marco. 2008. “Photographic Artefacts of War 1904–1905: The Russo-Japanese War as Transnational Media Event.” European Review of History: Revue Européenne D’histoire 15 (6): 629–42. doi:10.1080/13507480802500301.
 * Patrikeeff, Felix, and Harry Shukman. 2007. Railways and the Russo-Japanese War: Transporting War. Routledge.
 
-![]()
+![Transporting War](/imgSC131781.jpg)
 Source: “Telegraphic Record of the Russo-Japanese War: On the Ice of Lake Baikal in Russia, a Steam Locomotive and Its Cars Sank, Killing Tens of Officers and Soldiers. Russia’s Transport Capacity Was Greatly Damaged. (Nichiro Sensô Denpô Jikki No Uchi: Rokoku.” 2017. February 7. http://www.mfa.org/collections/object/telegraphic-record-of-the-russo-japanese-war-on-the-ice-of-lake-baikal-in-russia-a-steam-locomotive-and-its-cars-sank-killing-tens-of-officers-and-soldiers-russias-transport-capacity-was-greatly-damaged-nichiro-sens%C3%B4-denp%C3%B4-jikki-no-uchi.
 
 ### References:
