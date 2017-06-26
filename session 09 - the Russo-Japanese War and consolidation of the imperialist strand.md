@@ -1,4 +1,4 @@
-
+!["Europe and Asia"](/img2048px-Kisaburō_Ohara,_Europe_and_Asia_Octopus_Map,_1904_Cornell_CUL_PJM_1145_01.jpg)
 Source: Kisaburō, Ohara. 1904. Europe and Asia. (cm, H x W) 42 x 57. Cornell University Library. https://commons.wikimedia.org/wiki/File:Kisabur%C5%8D_Ohara,_Europe_and_Asia_Octopus_Map,_1904_Cornell_CUL_PJM_1145_01.jpg.
 
 
