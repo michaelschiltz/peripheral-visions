@@ -1,4 +1,14 @@
+
+Source: Kisaburō, Ohara. 1904. Europe and Asia. (cm, H x W) 42 x 57. Cornell University Library. https://commons.wikimedia.org/wiki/File:Kisabur%C5%8D_Ohara,_Europe_and_Asia_Octopus_Map,_1904_Cornell_CUL_PJM_1145_01.jpg.
+
+
 ### Keywords:
+
+### Discussion: The Russo-Japanese War as World War Zero
+* Fraser, David. A Modern Campaign; Or, War and Wireless Telegraphy in the Far East. London, Methuen & co, 1905. http://archive.org/details/cu31924023037231.
+* Gerbig-Fabel, Marco. 2008. “Photographic Artefacts of War 1904–1905: The Russo-Japanese War as Transnational Media Event.” European Review of History: Revue Européenne D’histoire 15 (6): 629–42. doi:10.1080/13507480802500301.
+* Patrikeeff, Felix, and Harry Shukman. 2007. Railways and the Russo-Japanese War: Transporting War. Routledge.
+
 
 ### References:
 * Duus, Peter. 1998. *The Abacus and the Sword: The Japanese Penetration of Korea, 1895-1910*. Reprint. University of California Press.
