@@ -7,6 +7,7 @@ Check as well the cartoon's [history and background](https://en.wikipedia.org/wi
 
 ### "There is no software"
 * Kittler, Friedrich. 1995. “There Is No Software.” Ctheory 10 (18): 1995. http://www.realtechsupport.org/UB/MC/Kittler_NoSoftware_1995.pdf.
+* in a contemporary example: Eichengreen, Barry, Romain Lafarguette, and Arnaud Mehl. 2016. “Cables, Sharks and Servers: Technology and the Geography of the Foreign Exchange Market.” 21884. http://www.nber.org/papers/w21884; and a gist of the latter in the Financial Times: Stafford, Philip, and Roger Blitz. 2017. “EU Hopes of Winning London’s Euro Trading Sunk by Undersea Cables.” July 5. https://www.ft.com/content/56ad41e6-617a-11e7-8814-0ac7eb84e5f1.
 
 ### The forgotten revolution in communication technology: telegraphy, radio
 * Nishimura, Shizuya. 1971. *The Decline of Inland Bills of Exchange in the London Money Market, 1855-1913*. London: Cambridge University Press.
