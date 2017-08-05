@@ -1,3 +1,5 @@
+![Stockholm Telephone Tower](imgstockholm-telephone-tower-1887-1913-over-5000-telephone-lines-connected-6.jpg)
+
 ### keyword(s)
 liquidity, prestige, network externalities, marginal utility
 
