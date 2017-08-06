@@ -33,15 +33,14 @@ Everyone should read the ‘required’ items; I have deliberately (mostly) pick
 
 ### Sessions
 * [session 1](https://github.com/michaelschiltz/peripheral-visions/blob/master/session%2001%20-%20center%20and%20periphery%20as%20the%20structure%20of%20the%2019th%20century%20world%20system.md)
-* session 2
-* session 3
-* session 4
-* session 5
-* session 6
-* session 7
-* session 7
-* session 8
-* session 9
-* session 10
-* session 11
-* session 12
+* [session 2](https://github.com/michaelschiltz/peripheral-visions/blob/master/session%2002%20-%20towards%20a%20network%20theoretical%20alternative.md)
+* [session 3](https://github.com/michaelschiltz/peripheral-visions/blob/master/session%2003%20-%20hardware:%20the%20telegraph%20as%20a%20proxy%20for%20the%2019th%20century%20order.md)
+* [session 4](https://github.com/michaelschiltz/peripheral-visions/blob/master/session%2004%20-%20the%20bakumatsu%20currency%20crisis%20and%20the%20brush%20with%20disaster.md)
+* [session 5](https://github.com/michaelschiltz/peripheral-visions/blob/master/session%2005%20-%20Japan's%20reveil:%20the%20semantic%20reaction%20to%20foreign%20intrusion.md)
+* [session 6](https://github.com/michaelschiltz/peripheral-visions/blob/master/session%2006%20-%20hacking%20power%20and%20prestige%20by%20means%20of%20emulation.md)
+* [session 7](https://github.com/michaelschiltz/peripheral-visions/blob/master/session%2007%20-%20Japan's%20'Western%20institutions'.md)
+* [session 8](https://github.com/michaelschiltz/peripheral-visions/blob/master/session%2008%20-%20the%20Sino-Japanese%20War%20and%20the%20birth%20of%20Japanese%20imperialism.md)
+* [session 9](https://github.com/michaelschiltz/peripheral-visions/blob/master/session%2009%20-%20the%20Russo-Japanese%20War%20and%20consolidation%20of%20the%20imperialist%20strand.md)
+* [session 10](https://github.com/michaelschiltz/peripheral-visions/blob/master/session%2010%20-%20the%20%22yellow%20man's%20burden%22:%20WWI%2C%20early%20pan-Asianism%2C%20and%20the%20encroachment%20of%20China.md)
+* [session 11](https://github.com/michaelschiltz/peripheral-visions/blob/master/session%2011%20-%20the%20defeat%20of%20the%20liberalist%20strand:%20Manchuria%20Incident%20and%20aftermath.md)
+* [session 12](https://github.com/michaelschiltz/peripheral-visions/blob/master/session%2012%20-%20Excursus:%20the%20Yokohama%20Specie%20Bank%20and%20the%20Business%20of%20the%20Empire.md)
