@@ -2,7 +2,7 @@
 `center and periphery`, `social differentiation`, `political and economic geography`, `networks`
 
 ### What is the epistemological status of core versus periphery?
-* to what degree is this a real, i.e. observable and even *measurable* distinction for analyzing societal structure, imperialism, etc.
+* to what degree is this a real, i.e. observable and even *measurable* distinction for analyzing societal structure, imperialism, etc.?
 * the promise of [Social Network Analysis](https://en.wikipedia.org/wiki/Social_network_analysis) and [relational sociology](https://en.wikipedia.org/wiki/Harrison_White)
 * sources:
   * Borgatti, Stephen P, and Martin G Everett. 2000. “Models of Core/periphery Structures.” *Social Networks* 21 (4): 375–95. doi:10.1016/S0378-8733(99)00019-2.
