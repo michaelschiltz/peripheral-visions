@@ -22,7 +22,8 @@ Fig.1: Source: Flandreau, Marc, and Clemens Jobst. 2005. “The Ties That Divide
 
 
 ### the network theoretical vision versus existing alternatives
-* agency-based literature
+* the culturalist tradition: see, for instance, strands in Japanese scholarship: Barshay, Andrew E. 1992. “Imagining Democracy in Postwar Japan: Reflections on Maruyama Masao and Modernism.” *Journal of Japanese Studies* 18 (2): 365–406. doi:10.2307/132825.
+* agency-based literature: mostly economic explanations
 * materialist explanations: the debate on the '[Great Divergence](https://en.wikipedia.org/wiki/Great_Divergence)'
 
 ### related traditions and literature
