@@ -1,5 +1,5 @@
 ### Keywords
-center and periphery, social differentiation, political and economic geography, networks
+`center and periphery`, `social differentiation`, `political and economic geography`, `networks`
 
 ### What is the epistemological status of core versus periphery?
 * to what degree is this a real, i.e. observable and even *measurable* distinction for analyzing societal structure, imperialism, etc.
