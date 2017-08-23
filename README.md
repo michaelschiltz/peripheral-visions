@@ -26,7 +26,7 @@ You are strongly encouraged to talk to the professor and teaching assistant whil
 ### Evaluation... 
 ... will be based on:
 reading notes, class discussions (other means of evaluation may be discussed with the students).
-There is no paper to be written; instead, students are asked to make ‘smart’, elaborate and interactive presentations. They are responsible for putting the presented reading in context, and act as ‘moderator’ for the follow-up discussion.
+**There is no paper to be written; instead, students are asked to make ‘smart’, elaborate and interactive presentations. They are responsible for putting the presented reading in context, and act as ‘moderator’ for the follow-up discussion.**
 
 ### Readings:
 Everyone should read the ‘required’ items; I have deliberately (mostly) picked shorter items (journal articles and/or book chapters). Discussants also need to read at least some of the ‘other’ readings.
