@@ -22,7 +22,7 @@ Check as well the cartoon's [history and background](https://en.wikipedia.org/wi
 * Wenzlhuemer, Dr Roland. *Connecting the Nineteenth-Century World: The Telegraph and Globalization*. Cambridge ; New York: Cambridge University Press, 2012.
 * Yang, Daqing. *Technology of Empire : Telecommunications and Japanese Imperialism, 1930-1945*. Harvard University Asia Center, 2003. 
 
-![telegraph lines in 1901](/img_submarine cables.jpg)
+![telegraph lines in 1901](/1901-Berne-Map-BPL-Leventhal.jpg)
 
 Fig. 2: Source: Van Hoven, C.,  and International Telegraph Bureau (Bern, Switzerland).  "Carte générale des grandes communications télégraphiques du monde."  Map.  1903.  Norman B. Leventhal Map Center,  https://collections.leventhalmap.org/search/commonwealth:7h149w11c (accessed June 12, 2017).
 
