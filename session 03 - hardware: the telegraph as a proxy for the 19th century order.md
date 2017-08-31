@@ -39,7 +39,7 @@ Fig. 2: Source: Van Hoven, C.,  and International Telegraph Bureau (Bern, Switze
 * [submarine cable map](http://www.submarinecablemap.com/) (also [on github](https://github.com/telegeography/www.submarinecablemap.com))
 * the contemporary dimension: how [relevant are submarine cables to 21st century information](https://worldview.stratfor.com/article/map-world-s-network-submarine-cables)?
 
-![submarine cables](img_submarine cables.jpg)
+![submarine cables](/img_submarine cables.jpg)
 
 ### To watch
 * "[Addicted to Pleasure](http://docuwiki.net/index.php?title=Addicted_to_Pleasure)"
