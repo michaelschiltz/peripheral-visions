@@ -21,6 +21,8 @@
   * Auslin, Michael R. *Negotiating with Imperialism: The Unequal Treaties and the Culture of Japanese Diplomacy*. Harvard University Press, 2004.
 * deflation: the painful remedy
   * Ericson, Steven J. 2014. “The ‘Matsukata Deflation’ Reconsidered: Financial Stabilization and Japanese Exports in a Global Depression, 1881–85.” *The Journal of Japanese Studies* 40 (1): 1–28. doi:10.1353/jjs.2014.0045.
+
+
 ![kite-flying: a metaphor for inflation in the bakumatsu period](/imgsc170754.jpg)
 
 Source: Utagawa Yoshitora, 「子供遊凧あげくらべ」, 1865.
