@@ -1,5 +1,5 @@
 ### Keywords:
-rogue state, puppet state, blocism, modernity, futurism
+`rogue state`, `puppet state`, `blocism`, `modernity`, `futurism`
 
 
 ### References
