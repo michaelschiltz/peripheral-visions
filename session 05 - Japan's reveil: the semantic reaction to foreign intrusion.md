@@ -3,7 +3,7 @@
 
 ### Slogans of Modernization
 * the common narrative in English historiography of the Meiji-period
-  * Giffard, Sir Sydney. 1988. “Japanese Slogans, Images and Visions.” The Pacific Review 1 (1): 1–6. doi:10.1080/09512748808718745.
+  * Giffard, Sir Sydney. 1988. “Japanese Slogans, Images and Visions.” *The Pacific Review* 1 (1): 1–6. doi:10.1080/09512748808718745.
   * Gluck, Carol. *Japan’s Modern Myths: Ideology in the Late Meiji Period*. Studies of the East Asian Institute, Columbia University. Princeton, N.J: Princeton University Press, 1985. (introductory chapters)
   * Samuels, Richard J. *“Rich Nation, Strong Army”: National Security and the Technological Transformation of Japan*. Cornell Studies in Political Economy. Ithaca: Cornell University Press, 1994. [first 3 chapters]
 * but are there analytical problems?
