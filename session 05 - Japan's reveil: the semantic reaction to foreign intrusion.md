@@ -1,8 +1,9 @@
 ### Keywords
-culture, structure and semantics
+`culture`, `structure and semantics`, `ideas & agency`
 
 ### Slogans of Modernization
 * the common narrative in English historiography of the Meiji-period
+  * Giffard, Sir Sydney. 1988. “Japanese Slogans, Images and Visions.” The Pacific Review 1 (1): 1–6. doi:10.1080/09512748808718745.
   * Gluck, Carol. *Japan’s Modern Myths: Ideology in the Late Meiji Period*. Studies of the East Asian Institute, Columbia University. Princeton, N.J: Princeton University Press, 1985. (introductory chapters)
   * Samuels, Richard J. *“Rich Nation, Strong Army”: National Security and the Technological Transformation of Japan*. Cornell Studies in Political Economy. Ithaca: Cornell University Press, 1994. [first 3 chapters]
 * but are there analytical problems?
@@ -11,3 +12,10 @@ culture, structure and semantics
   * Stichweh, Rudolf. 2000. “Semantik Und Sozialstruktur.” Zur Logik Einer Systemtheoretischen Unter. https://www.fiw.uni-bonn.de/demokratieforschung/personen/stichweh/pdfs/55_semantik-und-sozialstruktur.pdf.
 
 ### The Wider Epistemological Context: Ideas and the Formation of Social Reality
+
+### The Hidden Undercurrent: technologies of dissemination
+* the construction of public opinion:
+ * Huffman, James L. 1997. *Creating a Public: People and Press in Meiji Japan*. University of Hawaii Press.
+* ... and the production of dissent:
+ * Duus, Peter. 2001. “Presidential Address: Weapons of the Weak, Weapons of the Strong—The Development of the Japanese Political Cartoon.” *The Journal of Asian Studies* 60 (4): 965–97. doi:10.2307/2700017.
+
