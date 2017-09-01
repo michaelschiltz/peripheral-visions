@@ -21,9 +21,9 @@
   * Auslin, Michael R. *Negotiating with Imperialism: The Unequal Treaties and the Culture of Japanese Diplomacy*. Harvard University Press, 2004.
 * deflation: the painful remedy
   * Ericson, Steven J. 2014. “The ‘Matsukata Deflation’ Reconsidered: Financial Stabilization and Japanese Exports in a Global Depression, 1881–85.” *The Journal of Japanese Studies* 40 (1): 1–28. doi:10.1353/jjs.2014.0045.
-* the telegraph and market integration
-  * Mitchener, Kris James, and Mari Ohnuki. 2009. “Institutions, Competition, and Capital Market Integration in Japan.” *The Journal of Economic History* 69 (1): 138–71. doi:10.1017/S0022050709000369.
-
+* technologies and market integration
+  * the telegraph: Mitchener, Kris James, and Mari Ohnuki. 2009. “Institutions, Competition, and Capital Market Integration in Japan.” *The Journal of Economic History* 69 (1): 138–71. doi:10.1017/S0022050709000369.
+  * railroads: Ericson, Steven J. 1996. *The Sound of the Whistle: Railroads and the State in Meiji Japan*. Harvard Univ Asia Center.
 
 ![kite-flying: a metaphor for inflation in the bakumatsu period](/imgsc170754.jpg)
 
