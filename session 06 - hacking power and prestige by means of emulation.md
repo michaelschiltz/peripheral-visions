@@ -1,5 +1,5 @@
 ### Keywords
-* gold standard, 金本位制, original sin, foreign borrowing
+* `gold standard`, `金本位制`, `original sin`, `foreign borrowing`
 
 ![Matsukata Masayoshi](/img4_MatsukataM.jpg)
 
