@@ -19,3 +19,5 @@
 * ... and the production of dissent:
   * Duus, Peter. 2001. “Presidential Address: Weapons of the Weak, Weapons of the Strong—The Development of the Japanese Political Cartoon.” *The Journal of Asian Studies* 60 (4): 965–97. doi:10.2307/2700017.
 
+!["Tagosaku to Mokube No Tokyo Kenbutsu"](/imgTagosaku_to_Mokube_no_Tokyo_Kenbutsu.jpg)
+Source: Kitazawa, Rakuten. 1902. Rakuten Kitazawa(1876-1955)’s Comic Strip Tagosaku to Mokube No Tokyo Kenbutsu. Manga-Museum. https://commons.wikimedia.org/wiki/File:Tagosaku_to_Mokube_no_Tokyo_Kenbutsu.jpg.
