@@ -18,6 +18,10 @@
   * Huffman, James L. 1997. *Creating a Public: People and Press in Meiji Japan*. University of Hawaii Press.
 * ... and the production of dissent:
   * Duus, Peter. 2001. “Presidential Address: Weapons of the Weak, Weapons of the Strong—The Development of the Japanese Political Cartoon.” *The Journal of Asian Studies* 60 (4): 965–97. doi:10.2307/2700017.
+  
+![Marumaru chinbun cover page](/img_Marumaruchinbun.jpg)
+
+Source: 本多錦吉郎. 1877. 日本語: 團團珍聞は1877年に創刊された風刺週刊誌。その創刊号の表紙。. http://rnavi.ndl.go.jp/kaleido/entry/jousetsu140.php. https://commons.wikimedia.org/wiki/File:Marumaruchinbun.jpg.
 
 !["Tagosaku to Mokube No Tokyo Kenbutsu"](/imgTagosaku_to_Mokube_no_Tokyo_Kenbutsu.jpg)
 
