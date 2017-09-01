@@ -1,7 +1,7 @@
 ![Stockholm Telephone Tower](imgstockholm-telephone-tower-1887-1913-over-5000-telephone-lines-connected-6.jpg)
 
 ### keyword(s)
-liquidity, prestige, network externalities, marginal utility
+`liquidity`, `prestige`, `network externalities`, `marginal utility`
 
 ### liquidity in a non-economic context: language, news, the law
 * Akami, Tomoko. 2008. “The Emergence of International Public Opinion and the Origins of Public Diplomacy in Japan in the Inter-War Period.” *The Hague Journal of Diplomacy* 3 (2): 99–128. doi:10.1163/187119108X323664.
