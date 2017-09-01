@@ -15,7 +15,7 @@
 
 ### The Hidden Undercurrent: technologies of dissemination
 * the construction of public opinion:
- * Huffman, James L. 1997. *Creating a Public: People and Press in Meiji Japan*. University of Hawaii Press.
+  * Huffman, James L. 1997. *Creating a Public: People and Press in Meiji Japan*. University of Hawaii Press.
 * ... and the production of dissent:
- * Duus, Peter. 2001. “Presidential Address: Weapons of the Weak, Weapons of the Strong—The Development of the Japanese Political Cartoon.” *The Journal of Asian Studies* 60 (4): 965–97. doi:10.2307/2700017.
+  * Duus, Peter. 2001. “Presidential Address: Weapons of the Weak, Weapons of the Strong—The Development of the Japanese Political Cartoon.” *The Journal of Asian Studies* 60 (4): 965–97. doi:10.2307/2700017.
 
