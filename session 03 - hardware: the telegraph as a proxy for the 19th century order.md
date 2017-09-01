@@ -40,6 +40,7 @@ Fig. 2: Source: Van Hoven, C.,  and International Telegraph Bureau (Bern, Switze
 * the contemporary dimension: how [relevant are submarine cables to 21st century information](https://worldview.stratfor.com/article/map-world-s-network-submarine-cables)?
 
 ![submarine cables](/img_submarine_cables.jpg)
+Source: “DS18_2015/16: Architecture, Energy, Matter 3, Brief 3: Global Flows.” 2016. May 31. https://geoarchitecture.wordpress.com/teaching/ds18_201516-architecture-energy-matter-3-designing-with-emergent-energies-in-a-fluid-archipelago/ds18_201516-architecture-energy-matter-3-global-flows/. (map by Ben Pollock).
 
 ### To watch
 * "[Addicted to Pleasure](http://docuwiki.net/index.php?title=Addicted_to_Pleasure)"
