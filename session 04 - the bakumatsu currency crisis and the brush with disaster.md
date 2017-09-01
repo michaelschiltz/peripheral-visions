@@ -1,5 +1,5 @@
 ### Keywords:
-* multiple concurrent currency systems, regional differentiation
+* `multiple concurrent currency systems`, `regional differentiation`
 
 ### Discussion
 * a pre-modern inheritance: the triple currency system ([三貨制度](https://ja.wikipedia.org/wiki/%E6%B1%9F%E6%88%B8%E6%99%82%E4%BB%A3%E3%81%AE%E4%B8%89%E8%B2%A8%E5%88%B6%E5%BA%A6)) of the Edo-period.
@@ -9,6 +9,7 @@
 
 
 ### References
+* Crawcour, E. S., and Kozo Yamamura. 1970. “The Tokugawa Monetary System: 1787-1868.” Economic Development and Cultural Change 18 (4): 489–518. doi:10.2307/1152130.
 * Frost, Peter. 1970. *The Bakumatsu Currency Crisis*. Cambridge: Harvard University Asia Center.
 * Metzler, Mark. 2006. *Lever of Empire: The International Gold Standard and the Crisis of Liberalism in Prewar Japan*. Twentieth-century Japan 17. Berkeley: University of California Press.
 * 三上隆三. 2006. “三貨制度の本格的変容過程 その1.” 経済理論 330. http://ci.nii.ac.jp/naid/120005552490.
