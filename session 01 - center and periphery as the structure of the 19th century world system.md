@@ -1,3 +1,5 @@
+(required readings are indicated in **bold**)
+
 ### Keywords
 `center and periphery`, `social differentiation`, `political and economic geography`, `networks`
 
