@@ -1,5 +1,7 @@
 (required readings are indicated in **bold**)
 
+![what network relationships can teach us](/img_triad_constellations.jpg)
+
 ### Keywords
 `center and periphery`, `social differentiation`, `political and economic geography`, `networks`
 
