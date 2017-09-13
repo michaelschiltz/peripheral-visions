@@ -2,6 +2,8 @@
 
 ![what network relationships can teach us](/img_triad_constellations.jpg)
 
+illustration: the different possibilities of relationships in a group of three nodes
+
 ### Keywords
 `center and periphery`, `social differentiation`, `political and economic geography`, `networks`
 
