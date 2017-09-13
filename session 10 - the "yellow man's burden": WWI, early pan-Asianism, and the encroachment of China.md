@@ -1,4 +1,8 @@
+(required readings are indicated in **bold**)
+
+
 ### Keywords
+`rivalry and cooperation`, `pan-Asianism`
 
 ### The Yellow Peril: An Early Twentieth Century 'Clash of Civilizations'
 * “Yellow Peril.” 2017. Wikipedia. https://en.wikipedia.org/w/index.php?title=Yellow_Peril&oldid=785602413.
