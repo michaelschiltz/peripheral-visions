@@ -1,3 +1,6 @@
+(required readings are indicated in **bold**)
+
+
 ### Keywords
 * `gold standard`, `金本位制`, `original sin`, `foreign borrowing`
 
