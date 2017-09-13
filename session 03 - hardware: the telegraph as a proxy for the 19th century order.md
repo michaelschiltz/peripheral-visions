@@ -1,5 +1,7 @@
 ### Keywords:
 
+(required readings are indicated in **bold**)
+
 `telegraphy`, `media & power`, `media & commerce`, `media & the body`
 
 ![The Rhodes Colossus](/img1024px-Punch_Rhodes_Colossus.png)
