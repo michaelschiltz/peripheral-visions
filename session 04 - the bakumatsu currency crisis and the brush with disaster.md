@@ -1,3 +1,6 @@
+(required readings are indicated in **bold**)
+
+
 ### Keywords:
 * `multiple concurrent currency systems`, `regional differentiation`
 
