@@ -21,6 +21,7 @@ illustration: the different possibilities of relationships in a group of three n
   * **Kindleberger, Charles Poor. 1967. *The Politics of International Money and World Language*. International Finance Section, Department of Economics, Princeton University. https://www.princeton.edu/~ies/IES_Essays/E61.pdf.**
 * a monetary geography of the nineteenth century
   * Flandreau, Marc, and Clemens Jobst. 2005. “The Ties That Divide: A Network Analysis of the International Monetary System, 1890–1910.” *The Journal of Economic History* 65 (04): 977–1007. doi:10.1017/S0022050705000379.
+  * Sugihara, Kaoru. 2009. “The Resurgence of Intra-Asian Trade, 1800–1850,” July, 139–69. doi:10.1163/9789047429975_007.
   
 ![the monetary geography of 1900](/flandreaujobstEHR.png)
 
