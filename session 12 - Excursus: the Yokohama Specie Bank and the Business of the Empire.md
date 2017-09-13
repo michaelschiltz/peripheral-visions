@@ -1,4 +1,7 @@
+(required readings are indicated in **bold**)
+
 ### Keywords
+`exchange banking`, `networks and transaction costs`, `arbitrage`
 
 ### References
 
