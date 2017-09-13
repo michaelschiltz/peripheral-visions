@@ -1,3 +1,6 @@
+(required readings are indicated in **bold**)
+
+
 ### Keywords
 `culture`, `structure and semantics`, `ideas & agency`
 
