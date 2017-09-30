@@ -14,6 +14,7 @@ less tangible: legal code, parliamentary system, ...
 * railways:
    * Ericson, Steven J. 1996. *The Sound of the Whistle: Railroads and the State in Meiji Japan*. Harvard Univ Asia Center.
 * shipping: from the Suez Canal to the Nippon Yusen Kaisha 日本郵船会社 
+   * Davies, P. N. 1985. “The Rise of Japan’s Modern Shipping Industry.” *The Great Circle* 7 (1): 45–56. http://www.jstor.org/stable/41562500.
    * Davies, Peter N., and Kunio Katayama. 1999. “Aspects of Japanese Shipping History.” http://eprints.lse.ac.uk/6916/.
 
 ### Emulation, Institutions, and the the role of membership - on 'homophily' and mutual recognition
