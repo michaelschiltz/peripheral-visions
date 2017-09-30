@@ -24,7 +24,7 @@ Check as well the cartoon's [history and background](https://en.wikipedia.org/wi
 * **Knuesel, Ariane. 2007. “British Diplomacy and the Telegraph in Nineteenth-Century China.” *Diplomacy & Statecraft* 18 (3): 517–37. doi:10.1080/09592290701540249.**
 * 大塚虎之助, and 増田民男. 2002. 極秘電報に見る戦争と平和―日本電信情報史. 熊本市: 熊本出版文化会館.
 * Wenzlhuemer, Dr Roland. *Connecting the Nineteenth-Century World: The Telegraph and Globalization*. Cambridge ; New York: Cambridge University Press, 2012.
-* **Yang, Daqing. *Technology of Empire : Telecommunications and Japanese Imperialism, 1930-1945*. Harvard University Asia Center, 2003.**  
+* **Yang, Daqing. *Technology of Empire : Telecommunications and Japanese Imperialism, 1930-1945*. Harvard University Asia Center, 2003.**  (until p. 55)
 
 ![telegraph lines in 1901](/1901-Berne-Map-BPL-Leventhal.jpg)
 
