@@ -10,7 +10,7 @@ less tangible: legal code, parliamentary system, ...
 ### Police and the Military
 * Westney, D. Eleanor. 1982. “The Emulation of Western Organizations in Meiji Japan: The Case of the Paris Prefecture of Police and the Keishi-Chō.” *Journal of Japanese Studies* 8 (2): 307–42. doi:10.2307/132342.
 
-### The other hardware: technologies of trasportation
+### The other hardware: technologies of transportation
 * railways:
    * Ericson, Steven J. 1996. *The Sound of the Whistle: Railroads and the State in Meiji Japan*. Harvard Univ Asia Center.
 * shipping: from the Suez Canal to the Nippon Yusen Kaisha 日本郵船会社 
