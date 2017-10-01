@@ -11,6 +11,11 @@ less tangible: legal code, parliamentary system, ...
 * Westney, D. Eleanor. 1982. “The Emulation of Western Organizations in Meiji Japan: The Case of the Paris Prefecture of Police and the Keishi-Chō.” *Journal of Japanese Studies* 8 (2): 307–42. doi:10.2307/132342.
 
 ### The other hardware: technologies of transportation
+
+![Office of the Suez Canal Company, Port Said](/img_Port_Said,_The_Office_of_the_Suez_Canal_Company_(n.d.)_-_front_-_TIMEA.jpg)
+
+source: Trust, Cairo Postcard. nd. 'Large Ship Docked next to a Two-Story, Domed Building'. From the collection of Dr. Paula Sanders, Rice University. All of TIMEA’s content is licensed under a CC-BY-2.5 license. Depending on their publication date, some images might be in the public domain. https://commons.wikimedia.org/wiki/File:Port_Said,_The_Office_of_the_Suez_Canal_Company_(n.d.)_-_front_-_TIMEA.jpg.
+
 * for a general discussion, see: Knowles, Richard D. 2006. “Transport Shaping Space: Differential Collapse in Time–space.” *Journal of Transport Geography* 14 (6): 407–25. doi:10.1016/j.jtrangeo.2006.07.001.
 * railways:
    * Ericson, Steven J. 1996. *The Sound of the Whistle: Railroads and the State in Meiji Japan*. Harvard Univ Asia Center.
