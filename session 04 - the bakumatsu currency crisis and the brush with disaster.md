@@ -13,11 +13,11 @@
 
 ### References
 * Crawcour, E. S., and Kozo Yamamura. 1970. “The Tokugawa Monetary System: 1787-1868.” Economic Development and Cultural Change 18 (4): 489–518. doi:10.2307/1152130.
-* Frost, Peter. 1970. *The Bakumatsu Currency Crisis*. Cambridge: Harvard University Asia Center.
-* Metzler, Mark. 2006. *Lever of Empire: The International Gold Standard and the Crisis of Liberalism in Prewar Japan*. Twentieth-century Japan 17. Berkeley: University of California Press.
-* 三上隆三. 2006. “三貨制度の本格的変容過程 その1.” 経済理論 330. http://ci.nii.ac.jp/naid/120005552490.
-* 三上隆三. 2006. “三貨制度の本格的変容過程 その2.” 経済理論 331. http://ci.nii.ac.jp/naid/120005552351.
-* 渡辺房男. 2010. お金から見た幕末維新――財政破綻と円の誕生（祥伝社新書219）. 東京: 祥伝社.
+* **Frost, Peter. 1970. *The Bakumatsu Currency Crisis*. Cambridge: Harvard University Asia Center.**
+* **Metzler, Mark. 2006. *Lever of Empire: The International Gold Standard and the Crisis of Liberalism in Prewar Japan*. Twentieth-century Japan 17. Berkeley: University of California Press.** (until p. 28)
+* 三上隆三. 2006. 「三貨制度の本格的変容過程 その1.」 経済理論 330. http://ci.nii.ac.jp/naid/120005552490.
+* 三上隆三. 2006. 「三貨制度の本格的変容過程 その2.」 経済理論 331. http://ci.nii.ac.jp/naid/120005552351.
+* 渡辺房男. 2010. 『お金から見た幕末維新――財政破綻と円の誕生』（祥伝社新書219）. 東京: 祥伝社.
 
 ### Aftermath
 * negotiations with the foreign powers (see discussion in Roy Hanashiro)
