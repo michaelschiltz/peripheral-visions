@@ -30,7 +30,7 @@ reading notes, class discussions (other means of evaluation may be discussed wit
 
 ### Readings:
 Everyone should read the ‘required’ items; I have deliberately (mostly) picked shorter items (journal articles and/or book chapters). Discussants also need to read at least some of the ‘other’ readings. As the introductory reading, I propose:
-  * Ballantyne, Tony, and Antoinette Burton. 2014. *Empires and the Reach of the Global*. Harvard University Press.
+  * **Ballantyne, Tony, and Antoinette Burton. 2014. *Empires and the Reach of the Global*. Harvard University Press.**
 
 ### Sessions
 * [session 1: center and periphery as the structure of the 19th century world system](https://github.com/michaelschiltz/peripheral-visions/blob/master/session%2001%20-%20center%20and%20periphery%20as%20the%20structure%20of%20the%2019th%20century%20world%20system.md)
