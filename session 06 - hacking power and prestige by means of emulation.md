@@ -11,9 +11,9 @@ Source: Unknown. 1924. Portrait of Matsukata Masayoshi (松方正義, 1835 – 1
 ### The Gold Standard as a step on the road to redemption
 
 * the debate on gold standard adoption (in chronological order of discussion)
-   * Sussman, Nathan, and Yishay Yafeh. “Institutions, Reforms, and Country Risk: Lessons from Japanese Government Debt in the Meiji Era.” *The Journal of Economic History* 60, no. 2 (June 1, 2000): 442–467.http://www.jstor.org/stable/2566379.
-   * Mitchener, Kris James, Masato Shizume, and Marc D. Weidenmier. 2010. “Why Did Countries Adopt the Gold Standard? Lessons from Japan.” *The Journal of Economic History* 70 (01): 27–56. doi:10.1017/S0022050710000045.
-   * Schiltz, Michael. 2012. “Money on the Road to Empire: Japan’s Adoption of Gold Monometallism, 1873–971.” *The Economic History Review* 65 (3): 1147–68. doi:10.1111/j.1468-0289.2011.00619.x.
+   * **Sussman, Nathan, and Yishay Yafeh. “Institutions, Reforms, and Country Risk: Lessons from Japanese Government Debt in the Meiji Era.” *The Journal of Economic History* 60, no. 2 (June 1, 2000): 442–467.http://www.jstor.org/stable/2566379.**
+   * **Mitchener, Kris James, Masato Shizume, and Marc D. Weidenmier. 2010. “Why Did Countries Adopt the Gold Standard? Lessons from Japan.” *The Journal of Economic History* 70 (01): 27–56. doi:10.1017/S0022050710000045.**
+   * **Schiltz, Michael. 2012. “Money on the Road to Empire: Japan’s Adoption of Gold Monometallism, 1873–971.” *The Economic History Review* 65 (3): 1147–68. doi:10.1111/j.1468-0289.2011.00619.x.**
 
 * other aspects of the center/periphery dynamic:
    * Matsuoka, Kôji. 1938. *L’Etalon de change or en Extrême-Orient*. Paris; Tôkyo: P. Geuthner ; Mitsukoshi.
