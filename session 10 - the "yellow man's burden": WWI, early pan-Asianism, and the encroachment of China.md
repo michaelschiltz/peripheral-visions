@@ -13,3 +13,4 @@
 * Chi, Madeleine. “Bureaucratic Capitalists in Operation: Ts'ao Ju-Lin and His New Communications Clique, 1916-1919.” *The Journal of Asian Studies 34*, no. 3 (May 1975): 675. doi:10.2307/2052549.
 * Langdon, Frank C. 1957. “Japan’s Failure to Establish Friendly Relations with China in 1917-1918.” *Pacific Historical Review* 26 (3): 245–58. doi:10.2307/3636215.
 * Saaler, Sven, and Christopher W. A. Szpilman. 2011. *Pan-Asianism: A Documentary History, 1920–Present*. Rowman & Littlefield Publishers.
+* **Schiltz, Michael. 2012. The Money Doctors from Japan: Finance, Imperialism, and the Building of the Yen Bloc, 1895-1937. Harvard University Asia Center.** Chapter 3 "Separating the Roots of the Chrysanthemum".
